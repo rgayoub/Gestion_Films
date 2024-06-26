@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EFM_MVC.props" />
+</Project>

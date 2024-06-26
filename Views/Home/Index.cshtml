@@ -1,0 +1,116 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<EFM_MVC.Models.Film>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cinématique - Film Title</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.15/tailwind.min.css">
+    <link rel="stylesheet" href="css/custom.css"> <!-- Ajoutez vos styles personnalisés ici -->
+</head>
+<body class="bg-gray-100 font-sans leading-normal tracking-normal">
+
+    <!-- Header -->
+    <header class="bg-white shadow-md py-6">
+        <div class="container mx-auto px-6 md:px-0">
+            <div class="flex items-center justify-between">
+                <div class="text-2xl font-bold text-gray-800">Cinématique</div>
+                <nav class="space-x-4">
+                    <a href="#synopsis" class="text-gray-600 hover:text-gray-900">Synopsis</a>
+                    <a href="#cast" class="text-gray-600 hover:text-gray-900">Cast</a>
+                    <a href="#gallery" class="text-gray-600 hover:text-gray-900">Gallery</a>
+                    <a href="#reviews" class="text-gray-600 hover:text-gray-900">Reviews</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container mx-auto px-6 md:px-0 py-12">
+        <!-- Movie Banner -->
+        <div class="relative">
+            <img src="~/images/taxi_driver_affiche.jpg" alt="Movie Banner" class="rounded-lg shadow-md">
+            <div class="absolute inset-0 bg-black opacity-50"></div>
+            <div class="absolute inset-0 flex items-center justify-center text-white text-4xl font-bold">
+                Saving Private Ryan
+            </div>
+        </div>
+
+        <!-- Synopsis -->
+        <section id="synopsis" class="mt-12">
+            <div class="flex flex-col md:flex-row">
+                <div class="md:w-1/2 pr-8">
+                    <h2 class="text-3xl font-bold mb-4">Synopsis</h2>
+                    <p class="text-gray-700 leading-relaxed">
+                        Un vétéran américain de la Seconde Guerre mondiale, maintenant âgé, visite en France 
+                        le cimetière américain de Colleville-sur-Mer. Accompagné de sa famille et de ses petits-enfants, le vieil homme, alors qu'il s'arrête devant une pierre tombale, tombe à genoux sous le coup de l'émotion et commence à se remémorer ses souvenirs de guerre.
+                    </p>
+                </div>
+                <div class="md:w-1/2 mt-6 md:mt-0">
+                    <video width="420" controls autoplay>
+                        <source src="~/images/SavingPrivateRyan.mp4" type="video/mp4">
+                        Votre navigateur ne supporte pas la vidéo.
+                    </video>
+
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Cast -->
+        <section id="cast" class="mt-12">
+            <h2 class="text-3xl font-bold mb-4">Cast</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+                <div class="bg-white shadow-md rounded-lg overflow-hidden">
+                    <img src="~/images/jaws.jpg" alt="Actor 1" class="w-full h-45 object-cover">
+                    <div class="p-4">
+                        <h3 class="text-xl font-bold mb-2">Actor Name</h3>
+                        <p class="text-gray-700">Character Name</p>
+                    </div>
+                </div>
+                <!-- Répétez pour chaque acteur -->
+            </div>
+        </section>
+
+        <!-- Gallery -->
+        <section id="gallery" class="mt-12">
+            <h2 class="text-3xl font-bold mb-4">Gallery</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+                <a href="#" class="group">
+                    <img src="~/images/Saving_Private_Ryan_poster.jpg" alt="Gallery Image 1" class="w-full h-45 object-cover rounded-lg shadow-md transition duration-300 transform group-hover:scale-105">
+                </a>
+                <!-- Ajoutez plus d'images de la galerie ici -->
+            </div>
+        </section>
+
+        <!-- Reviews -->
+        <section id="reviews" class="mt-12">
+            <h2 class="text-3xl font-bold mb-4">Reviews</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                <div class="bg-white shadow-md rounded-lg p-6">
+                    <h3 class="text-xl font-bold mb-2">Great Movie!</h3>
+                    <p class="text-gray-700">Bonne site pour regarder les films.</p>
+                    <p class="text-gray-600 mt-4">- Regragui</p>
+                </div>
+                <!-- Ajoutez plus de critiques ici -->
+            </div>
+        </section>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-6">
+        <div class="container mx-auto px-6">
+            <div class="text-center">
+                <p>&copy; 2024 Cinématique. All rights reserved.Ismagi</p>
+                <p>Design by <a href="https://www.tooplate.com" target="_blank" class="underline">Regragui Ayoub</a></p>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
+

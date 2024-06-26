@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model EFM_MVC.Models.Film
+
+<h2>Edit Film</h2>
+
+<form asp-action="Edit">
+    <div class="form-group">
+        <label asp-for="Titre" class="control-label"></label>
+        <input asp-for="Titre" class="form-control" />
+        <span asp-validation-for="Titre" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Réalisateur" class="control-label"></label>
+        <input asp-for="Réalisateur" class="form-control" />
+        <span asp-validation-for="Réalisateur" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DateDeSortie" class="control-label"></label>
+        <input asp-for="DateDeSortie" class="form-control" type="date" />
+        <span asp-validation-for="DateDeSortie" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Synopsis" class="control-label"></label>
+        <textarea asp-for="Synopsis" class="form-control"></textarea>
+        <span asp-validation-for="Synopsis" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Affiche" class="control-label"></label>
+        <input asp-for="Affiche" class="form-control" />
+        <span asp-validation-for="Affiche" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="BandeAnnonce" class="control-label"></label>
+        <input asp-for="BandeAnnonce" class="form-control" />
+        <span asp-validation-for="BandeAnnonce" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>
+<a href="@Url.Action("Index")">Back to List</a>

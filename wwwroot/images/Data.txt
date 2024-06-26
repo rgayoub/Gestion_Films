@@ -1,0 +1,94 @@
+Jaws: 
+	Les Dents de la mer (Jaws, litt. « Les Mâchoires ») est un film américain réalisé par Steven Spielberg et sorti en 1975. Adapté du roman à succès de Peter Benchley publié en 1974, il raconte l'histoire d'un grand requin blanc mangeur d'hommes attaquant les baigneurs dans une station balnéaire de la côte est des États-Unis située sur l'île fictive d'Amity1, contraignant le chef de la police locale (Roy Scheider) à le chasser avec l'aide d'un biologiste marin (Richard Dreyfuss) et d'un chasseur de requins (Robert Shaw). Le scénario du film est principalement attribué à Benchley qui a écrit les premiers jets d'après son propre livre ainsi qu'à Carl Gottlieb qui l'a retravaillé pendant le tournage.
+synopsis:
+	Pendant l'été du 1er juillet 1974, sur l'île d'Amity, un groupe d'étudiants fait la fête sur la plage. Une jeune femme s'éloigne du groupe pour un bain de minuit alors que son flirt s'endort sur la plage, ivre. Après quelques brasses, la jeune femme est attaquée par une force mystérieuse, elle tente de résister mais est happée et disparaît dans l'eau en poussant des cris de terreur. Quelques secondes après, la mer retrouve son calme nocturne. Personne ne sait ce qui vient de se dérouler.Le lendemain, à la suite de la déclaration de la disparition de la jeune femme, Martin Brody, nouveau chef de la police locale originaire de New York, découvre les restes de la victime. Il attribue aussitôt cette mort à une attaque de requin, mais sous la pression du conseil municipal et aussi en raison de son inexpérience sur cette île, il suit les recommandations du médecin légiste de l'île et conclut à une mort accidentelle (noyade et choc avec un bateau).
+Date de sortie:
+	1975
+Réalisateur:
+	Steven Spielberg
+Affiche:
+	jaws.jpg
+BandeAnnonce:
+	JAWS.mp4
+__________________________________________
+
+Jurassic Park:
+	Adapté du roman homonyme de Michael Crichton publié en 1990, le film met en scène un parc d'attractions et animalier sur une île fictive nommée Isla Nublar située dans l'océan Pacifique, au large du Costa Rica. Le film raconte l'histoire du milliardaire John Hammond (Richard Attenborough) et son équipe de généticiens parvenant à ramener à la vie des dinosaures grâce au clonage. Un petit groupe de visiteurs est invité à découvrir le parc pour confirmer sa viabilité avant son ouverture. Cependant, la visite tourne à la catastrophe lorsqu'un acte de sabotage industriel provoque l'arrêt des installations électriques et du système de sécurité du parc, entrainant alors l'évasion des dinosaures. Le groupe doit alors lutter pour sa survie et s'échapper de l'île.
+Synopsis:
+	John Parker Hammond, le PDG de la puissante compagnie nommée InGen, parvient à donner vie à des dinosaures grâce à la génétique et décide de les utiliser dans le cadre d’un parc d'attractions qu’il compte ouvrir sur une île au large du Costa Rica. Avant l'ouverture, il fait visiter le parc à un groupe d'experts pour obtenir leur aval. Pendant la visite, une tempête éclate et un informaticien corrompu par une entreprise rivale en profite pour couper les systèmes de sécurité afin de voler des embryons de dinosaures. En l'absence de tout système de sécurité pendant plusieurs heures, les dinosaures s'échappent sans mal, et le cauchemar des visiteurs commence.
+Date de sortie:
+	1993
+Réalisateur:
+	Steven Spielberg 
+Affiche:
+	jurassicPark.jpg
+BandeAnnonce:
+	JurassicPark.mp4
+_______________________________________________
+Saving Private Ryan:
+	Il faut sauver le soldat Ryan (Saving Private Ryan) est un film de guerre américain réalisé par Steven Spielberg et sorti en 1998. Le film met en scène des soldats américains qui, dans la confusion du début de la bataille de Normandie, ont pour mission de retrouver un soldat dont tous les frères sont morts au combat. La reconstitution très réaliste du débarquement de Normandie est l'un des points forts du film.
+Synopsis:
+	Un vétéran américain de la Seconde Guerre mondiale, maintenant âgé, visite en France le cimetière américain de Colleville-sur-Mer. Accompagné de sa famille et de ses petits-enfants, le vieil homme, alors qu'il s'arrête devant une pierre tombale, tombe à genoux sous le coup de l'émotion et commence à se remémorer ses souvenirs de guerre.
+Date de sortie:
+	1998
+Réalisateur:
+	Steven Spielberg 
+Affiche:
+	Saving_Private_Ryan_poster.jpg
+BandeAnnonce:
+	SavingPrivateRyan.mp4
+__________________________________________________
+Taxi driver:
+	C'est un film américain réalisé par Martin Scorsese et sorti en 1976. Écrit par Paul Schrader, il met en vedette Robert De Niro, Jodie Foster, Harvey Keitel et Cybill Shepherd. Le film est régulièrement cité par les critiques, les réalisateurs et les cinéphiles comme l'un des plus grands films de tous les temps. Il remporte la Palme d'or du festival de Cannes 1976 et a été nommé pour quatre Oscars, dont celui du meilleur film.
+Synopsis:
+	Travis Bickle, jeune homme du Midwest et ancien marine, est chauffeur de taxi de nuit à New York. Insomniaque et solitaire, il rencontre un jour Betsy, une assistante du sénateur Charles Palantine, candidat à la présidentielle. Après un premier rendez-vous pour un café, elle repousse ce chauffeur de taxi après qu'il l'a emmenée voir un film pornographique. Renvoyé à sa solitude et confronté à la violence et à la perversion de la nuit new-yorkaise, il achète des armes au marché noir et s'entraîne à les manier. Alors qu'il parcourt les rayons d'une supérette qu'il a l'habitude de fréquenter, le caissier se fait braquer par un jeune Afro-Américain. Il intervient en tirant sur le malfaiteur qu'il blesse. Il explique au caissier qu'il n'a pas de permis de port d'arme, le caissier lui demande alors de partir et achève le jeune homme à coups de barre de fer.
+Date de sortie:
+	1976
+Réalisateur:
+	Martin Scorsese 
+Affiche:
+	taxi_driver_affiche.jpg
+BandeAnnonce:
+	TaxiDriver_scrsese.mp4
+
+__________________________________________________
+the Irish Man:
+	The Irishman est un film de gangsters américain coproduit et réalisé par Martin Scorsese et sorti en 2019. Il s’agit de l'adaptation du livre I Heard You Paint Houses: Frank ‘The Irishman’ Sheeran and the Inside Story of the Mafia, the Teamsters, and the Final Ride by Jimmy Hoffa de Charles Brandt, qui retrace la vie de Frank Sheeran.
+Synopsis:
+	Depuis sa maison de retraite, Frank Sheeran se remémore sa vie. Vétéran de la Seconde Guerre mondiale, « The Irishman » officie à Philadelphie comme chauffeur de camion dans les années 1950. Accusé de vol, il est défendu par l'avocat Bill Bufalino. Ce dernier lui présente son cousin, Russell Bufalino. Frank se lie rapidement avec Russell et se rapproche peu à peu de la mafia italienne locale. Il devient un homme à tout faire et un tueur à gages efficace. Russell lui présente alors l'un des hommes les plus influents des États-Unis, Jimmy Hoffa, président du puissant syndicat International Brotherhood of Teamsters.
+Date de sortie:
+	2019
+Réalisateur:
+	Martin Scorsese 
+Affiche:
+	theIrishMan.jpg
+BandeAnnonce:
+	TheIrishman_scorsise.mp4
+__________________________________________________
+The Jocker:
+	Joker est un suspense psychologique américano-canadien réalisé par Todd Phillips, sorti en 2019. Il raconte, dans une histoire originale, la transformation d'Arthur Fleck en Joker, un dangereux tueur psychopathe qui deviendra, par la suite, le plus grand ennemi de Batman.
+Synopsis:
+	En 1981, Arthur Fleck travaille dans une agence de clowns à Gotham City. Méprisé et incompris par ceux qui lui font face, il mène une morne vie en marge de la société et habite dans un immeuble miteux avec sa mère Penny. Un soir, il se fait agresser dans le métro par trois traders de Wayne Enterprises alcoolisés qui le brutalisent, le poussant à les tuer en retour. Son geste inspire à une partie de la population l'idée de s'en prendre eux aussi aux puissants. Dans cette société décadente, Arthur bascule peu à peu dans la folie et finit par devenir le Joker, un dangereux tueur psychopathe victime d'hallucinations et le plus grand criminel de Gotham City.
+Date de sortie:
+	2019
+Réalisateur:
+	Martin Scorsese 
+Affiche:
+	theJoker.jpg
+BandeAnnonce:
+	THEJOKER_MartinScorsese.mp4
+_________________________________________________
+The Wolf Of WallStreet:
+	Un financier impitoyable accapare le marché du cuivre puis vend à découvert, faisant fortune mais ruinant finalement ses finances et celles de ses amis.
+Synopsis:
+	Un financier impitoyable accapare le marché du cuivre puis vend à découvert, faisant fortune mais ruinant finalement ses finances et celles de ses amis.
+Date de sortie:
+	2019
+Réalisateur:
+	Martin Scorsese
+Affiche:
+	TheWolfOfWallStreet.jpg
+BandeAnnonce:
+	TheWolfOfWallStreet_scorsese.mp4
+
+

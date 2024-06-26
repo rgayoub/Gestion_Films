@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<EFM_MVC.Models.Film>
+
+<h2>Liste des Films</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Titre</th>
+            <th>Réalisateur</th>
+            <th>Date de Sortie</th>
+            <th>Synopsis</th>
+            <th>Affiche</th>
+            <th>Bande-Annonce</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var film in Model)
+    {
+        <tr>
+            <td>@film.Titre</td>
+            <td>@film.Réalisateur</td>
+            <td>@film.DateDeSortie.ToShortDateString()</td>
+                        <td>@film.Synopsis</td>
+            <td><img src="~/images/@film.Affiche" alt="Affiche du film" width="100" /></td>
+            <td>
+                    <video autoplay controller width="320" height="240" controls>
+                    <source src="~/images/@film.BandeAnnonce" type="video/mp4">
+                    Votre navigateur ne supporte pas la vidéo.
+                </video>
+            </td>
+            <td>
+                <a href="@Url.Action("Edit", new { id = film.Id })" class="btn btn-primary">Edit</a>
+                <a href="@Url.Action("Details", new { id = film.Id })" class="btn btn-info">Details</a>
+                
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+
